@@ -138,7 +138,6 @@ Java_com_example_firstapplication_MainActivity_stringFromJNI(
     // -------------------------------------------------
     // 9. Sample next token and Token to Text
     // -------------------------------------------------
-    std::string outp
     std::string output = "Generated :";
 
     for (int step = 0; step < 50; step++) {
