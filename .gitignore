@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+Quantifier/.venv/
+.venv/
+*.txt
